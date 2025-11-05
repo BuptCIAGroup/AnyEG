@@ -1,0 +1,9 @@
+NAME
+  ttkExtremeGraphDev
+SOURCES
+  ttkExtremeGraphDev.cpp
+HEADERS
+  ttkExtremeGraphDev.h
+DEPENDS
+  extremeGraphDev
+  ttkAlgorithm
