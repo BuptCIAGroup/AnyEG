@@ -29,7 +29,7 @@ AnyEG/
  │    ├── sample2.vti
  │    └── ...
  └── CMakeLists.txt
-```）
+```
 ---
 
 ## Dependencies
