@@ -22,14 +22,14 @@ Please download the required test dataset from Kaggle:
 [AnyEG Dataset (Kaggle)](https://www.kaggle.com/datasets/wh1stle/anyeg-data/data)
 
 After downloading, extract the data into the `data/` folder under the project directory:
-
+```
 AnyEG/
  ├── data/
  │    ├── sample1.vti
  │    ├── sample2.vti
  │    └── ...
  └── CMakeLists.txt
-
+```）
 ---
 
 ## Dependencies
